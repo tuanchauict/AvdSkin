@@ -6,8 +6,9 @@ Open AVD Setting -> Edit AVD -> Show Advanced Settings -> Select Skin Folder -> 
 
 # Credit
 
-[Minh Anh](https://github.com/minhanhhere)
-[Tuan Chau](https://github.com/tuanchauict)
+* [Minh Anh](https://github.com/minhanhhere)
+
+* [Tuan Chau](https://github.com/tuanchauict)
 
 # License
 
